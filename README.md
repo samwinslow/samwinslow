@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sam. 👋
+
+I'm a software engineer based in New York, currently building [Seven](https://www.seveninvites.com/), an app for sending party invites and RSVPs. Prior to that, I worked at [PostHog](https://github.com/PostHog/) and founded a social network for music called [Tunestack](https://www.samwinslow.net/post/tunestack).
+
+In my free time I love working with electronics, reading, and flying airplanes.
 
 <!--
 **samwinslow/samwinslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
